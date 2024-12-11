@@ -41,12 +41,12 @@ body {
 /* Custom Style */
 .hero-section {
     background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), 
-                url('main/background.jpg') center center / cover no-repeat;
+                url('background.jpg') center center / cover no-repeat;
     height: 100vh;
     color: white;
 
 #home {
-    background-image: url('main/background.jpg');
+    background-image: url('background.jpg');
     background-size: full;
     color: #a14c4c;
 }
